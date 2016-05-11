@@ -10,7 +10,7 @@ import Foundation
 
 print("Hello, World!")
 
-/* */
+/*
 
 //Initializaer Parameters without External Names
 struct Celsius {
@@ -48,10 +48,10 @@ cheeseQuestion.ask()
 cheeseQuestion.response = "Yes, I do like cheese"
 cheeseQuestion.ask()
 
-/* */
+*/
 
 // Modifying COnstant Properties During Initialization
-/*
+
  class SurveyQuestion {
  let text: String
  var response: String?
@@ -363,4 +363,4 @@ print( " PlayerOne has left the game")
 print(" The bank now has \(Bank.coinsInBank) coins")
 /* */
  
- */
+ 
